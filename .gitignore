@@ -1,0 +1,13 @@
+﻿# Visual Studio
+.vs/
+**/.vs/
+
+# Build files
+[Bb]in/
+[Oo]bj/
+
+# PostgreSQL installer
+*.exe
+*.msi
+
+/packages/

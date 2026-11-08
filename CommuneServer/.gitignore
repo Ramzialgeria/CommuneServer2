@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# NuGet packages
+packages/
+
+# PostgreSQL installer
+*.exe
+*.msi
+
+# Temporary files
+*.user
+*.suo
